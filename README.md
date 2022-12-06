@@ -1,4 +1,4 @@
-# cloud Enviornment (IAM/EMM)
+# cloud Environment (IAM/EMM)
 
 A module that implements a unified identity, access, app, and endpoint management (IAM/EMM) platform.
 
